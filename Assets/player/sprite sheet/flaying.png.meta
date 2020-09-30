@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 3d25800f36b26ae4e878b0ace5351576
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6851345807644025482
+    second: __jet_pack_man_with_weapon_flying_0
+  - first:
+      213: -6074195964573348586
+    second: __jet_pack_man_with_weapon_flying_1
+  - first:
+      213: -3432175305229744483
+    second: __jet_pack_man_with_weapon_flying_2
+  - first:
+      213: 4307086269911175817
+    second: __jet_pack_man_with_weapon_flying_3
+  - first:
+      213: 1293911587895656852
+    second: __jet_pack_man_with_weapon_flying_4
+  - first:
+      213: 9065465345121107181
+    second: __jet_pack_man_with_weapon_flying_5
+  - first:
+      213: -2297914627806260025
+    second: __jet_pack_man_with_weapon_flying_6
+  - first:
+      213: 2478514364293750132
+    second: __jet_pack_man_with_weapon_flying_7
+  - first:
+      213: -7091813514139733410
+    second: __jet_pack_man_with_weapon_flying_8
+  - first:
+      213: 1631912060761753663
+    second: __jet_pack_man_with_weapon_flying_9
+  - first:
+      213: -5868903463886293377
+    second: __jet_pack_man_with_weapon_flying_10
+  - first:
+      213: 3205218245550339082
+    second: __jet_pack_man_with_weapon_flying_11
+  - first:
+      213: 8480926897895011691
+    second: __jet_pack_man_with_weapon_flying_12
+  - first:
+      213: -3600207890503465584
+    second: __jet_pack_man_with_weapon_flying_13
+  - first:
+      213: -8335478947512290556
+    second: __jet_pack_man_with_weapon_flying_14
+  - first:
+      213: 3990910770609636138
+    second: __jet_pack_man_with_weapon_flying_15
+  - first:
+      213: -6916867623188423069
+    second: __jet_pack_man_with_weapon_flying_16
+  - first:
+      213: 4949029864362648895
+    second: __jet_pack_man_with_weapon_flying_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_0
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1350
+        width: 409
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1406b9412be0a0800000000000000
+      internalID: -6851345807644025482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_1
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1350
+        width: 410
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8e73e3fe14bba0800000000000000
+      internalID: -6074195964573348586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_2
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1350
+        width: 411
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c9ec8eb67e50d0800000000000000
+      internalID: -3432175305229744483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_3
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 1350
+        width: 413
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982940f7428d5cb30800000000000000
+      internalID: 4307086269911175817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_4
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 1438
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914847dbb5e4f110800000000000000
+      internalID: 1293911587895656852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_5
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 1350
+        width: 415
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decbe8353b00fcd70800000000000000
+      internalID: 9065465345121107181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41f6522da2c10e0800000000000000
+      internalID: -2297914627806260025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 711
+        width: 417
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9e6ebea3756220800000000000000
+      internalID: 2478514364293750132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_8
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 711
+        width: 419
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f264de21d49d90800000000000000
+      internalID: -7091813514139733410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_9
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 713
+        width: 421
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38416e7f57b5a610800000000000000
+      internalID: 1631912060761753663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_10
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 713
+        width: 419
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767ff5f4677d8ea0800000000000000
+      internalID: -5868903463886293377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_11
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 711
+        width: 419
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f0a923093b7c20800000000000000
+      internalID: 3205218245550339082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65761b641e42b570800000000000000
+      internalID: 8480926897895011691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 72
+        width: 418
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958bf09ffd790ec0800000000000000
+      internalID: -3600207890503465584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_14
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 72
+        width: 416
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40378cc7f0e625c80800000000000000
+      internalID: -8335478947512290556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_15
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 72
+        width: 413
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c77c7330926730800000000000000
+      internalID: 3990910770609636138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_16
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 72
+        width: 411
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e14793b895200a0800000000000000
+      internalID: -6916867623188423069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __jet_pack_man_with_weapon_flying_17
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 72
+        width: 410
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a228c07c7ea440800000000000000
+      internalID: 4949029864362648895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
